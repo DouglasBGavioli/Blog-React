@@ -1,7 +1,5 @@
 # API Server
 
-Servidor do Compasso Blog
-
 ## Instalando e Executando
 
 Para instalar os pacotes necessários de execução:
