@@ -1,0 +1,27 @@
+.card {
+    list-style-type: none;
+    list-style: none;
+    padding: 10px;
+    flex-direction: line;
+    width: 25%;
+    height: 40%;
+    max-width: 400px;
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 15px;
+    margin-bottom: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.3);
+
+}
+.voteScore {
+
+    padding: 3px;
+    float: right;
+    margin-right: 2px;
+    border-radius: 10px;
+    color: white;
+    background-color: #1976d2;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.3);
+    position: relative;
+}

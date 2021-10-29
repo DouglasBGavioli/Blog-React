@@ -1,0 +1,10 @@
+a {
+  color: white;
+  text-decoration: none;
+  padding-right: 40px;
+}
+.menu__logo{
+  margin-right: 100px;
+  font-size: 40px;
+  font-family: 'Courier New', Courier, monospace;
+}
